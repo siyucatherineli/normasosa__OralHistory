@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://siyucatherineli.github.io/normasosa__OralHistory/normasosa_interview/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "NormaSosa_Interview" ] },
+    "homepage": [
+      {
+        "id": "https://archive.org/details/1045-sosa-norma",
+        "type": "Text",
+        "label": { "en": [ "NormaSosa_Interview" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://archive.org/",
+        "type": "Agent",
+        "label": { "en": [ "Internet Archives" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://siyucatherineli.github.io/normasosa__OralHistory/normasosa_interview/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 7913.0,
+        "items": [
+          {
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/normasosa_interview/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://siyucatherineli.github.io/normasosa__OralHistory/normasosa_interview/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia601802.us.archive.org/10/items/1045-sosa-norma/1045_Sosa_Norma.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 7913.0
+                },
+                "target": "https://siyucatherineli.github.io/normasosa__OralHistory/normasosa_interview/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
