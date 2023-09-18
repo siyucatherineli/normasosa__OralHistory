@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-clarifying-question--asking-sosa-the-name-of-the-hispanic-reporter-before-her-at-cst-.json",
+  "type": "AnnotationPage",
+  "label": "Clarifying question: Asking Sosa the name of the Hispanic reporter before her at CST.",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "normasosa_interview-canvas-1-clarifying-question--asking-sosa-the-name-of-the-hispanic-reporter-before-her-at-cst--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Clarifying question: Asking Sosa the name of the Hispanic reporter before her at CST.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://siyucatherineli.github.io/normasosa__OralHistory/normasosa_interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://siyucatherineli.github.io/normasosa__OralHistory/normasosa_interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3270.0"
+        }
+      }
+    }
+  ]
+}

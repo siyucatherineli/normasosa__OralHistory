@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--asking-why-did-sosa-decided-to-go-to-standford--sosa-smiled-.json",
+  "type": "AnnotationPage",
+  "label": "Follow up question: Asking why did Sosa decided to go to Standford. Sosa smiled.",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "normasosa_interview-canvas-1-follow-up-question--asking-why-did-sosa-decided-to-go-to-standford--sosa-smiled--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Follow up question: Asking why did Sosa decided to go to Standford. Sosa smiled.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://siyucatherineli.github.io/normasosa__OralHistory/normasosa_interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://siyucatherineli.github.io/normasosa__OralHistory/normasosa_interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "768.0,775.0"
+        }
+      }
+    }
+  ]
+}

@@ -23,6 +23,656 @@
         "id": "https://siyucatherineli.github.io/normasosa__OralHistory/normasosa_interview/canvas-1/canvas",
         "type": "Canvas",
         "duration": 7913.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-interviewee.json",
+            "label": {
+              "none": ["interviewee"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--sosa-really-enjoyed-editing-newspaper--her-reporter-were-covering-stories-that-english-paper-wasn-t-covering--but-some-people-in-cst-resisted-spanish-stories-in-their-paper-.json",
+            "label": {
+              "none": ["Direct answer: Sosa really enjoyed editing newspaper. Her reporter were covering stories that English paper wasn't covering. But some people in CST resisted Spanish stories in their paper."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--referring-back-to-the--riot--that-sosa-mentioned-earlier-.json",
+            "label": {
+              "none": ["Follow up question: Referring back to the \"riot\" that Sosa mentioned earlier."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-context-question--what-types-of-communication-was-in-sosa-s-living-area--.json",
+            "label": {
+              "none": ["Context Question: What types of communication was in Sosa's living area? "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-awswering-question-from-middle-school-experience.json",
+            "label": {
+              "none": ["Awswering question from middle school experience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--sosa-was-first-a-cover-editor-at-cst--her-main-job-was-to-develop-an-instinct-about-what-is-important-to-cover--a-year-later-they-asked-if-sosa-wanted-to-be-an-reporter-.json",
+            "label": {
+              "none": ["Direct Answer: Sosa was first a cover editor at CST, her main job was to develop an instinct about what is important to cover. A year later they asked if Sosa wanted to be an reporter."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--asking-sosa-if-there-were-a-history-of-having-hispanic-reporters-at-that-time-.json",
+            "label": {
+              "none": ["Follow-up Question: Asking Sosa if there were a history of having Hispanic reporters at that time."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-further-answer--the-tabloid-died-in-a-year--killed-by-cst-instead-of-the-spanish-newspaper-competitions--they-have-met-too-much-resistance-and-being-criticized-of-not-being-hispanic-enough-.json",
+            "label": {
+              "none": ["Further answer: The tabloid died in a year, killed by CST instead of the spanish newspaper competitions. They have met too much resistance and being criticized of not being Hispanic enough."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-asking-follow-up-question-about-sosa-s-ideas-about--opinions--have-significance--.json",
+            "label": {
+              "none": ["Asking follow-up question about Sosa's ideas about \"opinions' have significance\"."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-awswering-question-from-university-experience-.json",
+            "label": {
+              "none": ["Awswering question from university experience."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-questions--asking-sosa-why-these-companies-are-so-welcoming-.json",
+            "label": {
+              "none": ["Follow up questions: Asking Sosa why these companies are so welcoming?"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--sosa-do-not-think-she-have-the-answer--cst-was-simply-receiving-these-complaints-and-the-editors-never-told-her-why--there-might-be-many-reasons-behind-this-.json",
+            "label": {
+              "none": ["Direct answer: Sosa do not think she have the answer. CST was simply receiving these complaints and the editors never told her why. There might be many reasons behind this."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-asking-a-specific-question-to-follow-up-the-story--how-sosa-think-about-the-movement.json",
+            "label": {
+              "none": ["Asking a specific question to follow up the story- how Sosa think about the movement"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-consistent-answer--sosa-remembered-dining-in-her-college-rommmate-s-standford-aunt-home-with-the-faculty--the-conversations-were-alwasy-open-and-connected-.json",
+            "label": {
+              "none": ["Consistent Answer: Sosa remembered dining in her college rommmate's Standford aunt home with the faculty, the conversations were alwasy open and connected."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-change-of-subject-question--asking-sosa-s-if-the-situation-is-the-same-in-lakeland-.json",
+            "label": {
+              "none": ["Change of Subject Question: Asking Sosa's if the situation is the same in Lakeland."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-clarifying-question--asking-sosa-if-it-was-exceptions-to-have-hispanic-reporter-at-the-newspaper-.json",
+            "label": {
+              "none": ["Clarifying Question: Asking Sosa if it was exceptions to have Hispanic reporter at the newspaper."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--asking-sosa-if-chicago-have-a-more-diverse-in-labor-.json",
+            "label": {
+              "none": ["Follow-up question: Asking Sosa if Chicago have a more diverse in labor."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--the-cst-tried-to-appeal-to-the-hispanic-community-and-get-them-to-read-the-paper-.json",
+            "label": {
+              "none": ["Direct answer: The CST tried to appeal to the Hispanic community and get them to read the paper."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-drawing-conclusions-that-interest-in-journalism-comes-from-childhood-experince-.json",
+            "label": {
+              "none": ["Drawing conclusions that interest in journalism comes from childhood experince."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--sosa-think-lakeland-was-a-wealthy-community--and-the-influential-people-have-characterized-the-community-in-some-way-.json",
+            "label": {
+              "none": ["Direct Answer: Sosa think Lakeland was a wealthy community, and the influential people have characterized the community in some way."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--asking-sosa-if-there-were-anyone-else-covering-the-latino-community-at-that-time-.json",
+            "label": {
+              "none": ["Follow up question: Asking Sosa if there were anyone else covering the Latino community at that time."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--if-moving-to-chicago-sun-times-was-a-major-shift-for-sosa-.json",
+            "label": {
+              "none": ["Follow up question: If moving to Chicago Sun Times was a major shift for Sosa."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--sosa-s-editor-asked-her-if-she-will-be-comfortable-working-in-a-community-that-was-majorly-white-people-.json",
+            "label": {
+              "none": ["Direct Answer: Sosa's editor asked her if she will be comfortable working in a community that was majorly white people."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--sosa-went-to-chicago-sun-times-after-that-.json",
+            "label": {
+              "none": ["Direct answer: Sosa went to Chicago Sun Times after that."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-asking-sosa-s-memories-on-hispanic-activism-movements-back-in-60s--and-what-is-her-opinions-on-it-.json",
+            "label": {
+              "none": ["Asking Sosa's memories on hispanic activism movements back in 60s, and what is her opinions on it."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-interviwer.json",
+            "label": {
+              "none": ["interviwer"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--sosa-think-austin-have-always-been-open--and-there-were-free-thinking-in-and-out-of-campus-.json",
+            "label": {
+              "none": ["Direct Answer: Sosa think Austin have always been open, and there were free thinking in and out of campus."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-clarifying-the-interview-and-background-information--asking-background-information-.json",
+            "label": {
+              "none": ["Clarifying the interview and background information. Asking Background information."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--the-newspaper-will-cover-the-garcia-family-routinely-because-they-are-influential-and-important--and-white-people-see-it-as-windows-to-hispanic-communities-.json",
+            "label": {
+              "none": ["Direct Answer: The newspaper will cover the Garcia family routinely because they are influential and important, and White people see it as windows to Hispanic communities."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--asking-sosa-if-the-farmworkers-are-part-of-the-coverage-back-then-and-what-happened-.json",
+            "label": {
+              "none": ["Follow up Question: Asking Sosa if the farmworkers are part of the coverage back then and what happened."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--sosa-s-answer-was-no--there-were-many-veteran-reporters-and-she-is-far-from-being-the-first-hispanic-reporter-at-the-local-newspaper-.json",
+            "label": {
+              "none": ["Direct Answer: Sosa's answer was no. There were many veteran reporters and she is far from being the first Hispanic reporter at the local newspaper."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question-on-whether-if-sosa-had-the-experience-of-talking-politics-on-high-school-.json",
+            "label": {
+              "none": ["Follow up question on whether if Sosa had the experience of talking politics on high school."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-clarifying-question--taking-a-step-back--and-ask-sosa-about-her-experience-covering-the-women-s-news-section-at-the-color-times-.json",
+            "label": {
+              "none": ["Clarifying Question: Taking a step back, and ask Sosa about her experience covering the women's news section at The Color Times."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-coverage-on-newspaper-were-defensive--there-were-no-coverage-on-who-is-involoved-in-the-movements-.json",
+            "label": {
+              "none": ["Coverage on newspaper were defensive, there were no coverage on who is involoved in the movements."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-change-of-subject-question--asking-sosa-s-duty-at-chicago-sun-times-.json",
+            "label": {
+              "none": ["Change of subject question: Asking Sosa's duty at Chicago Sun Times."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--did-sosa-collaborate-or-get-together-with-other-latino-students-in-campus-.json",
+            "label": {
+              "none": ["Follow up question: Did Sosa collaborate or get together with other Latino students in campus?"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--asking-why-did-sosa-decided-to-go-to-standford--sosa-smiled-.json",
+            "label": {
+              "none": ["Follow up question: Asking why did Sosa decided to go to Standford. Sosa smiled."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--it-was-a-huge-shift-for-sosa-in-so-many-ways-as-sosa-have-never-lived-in-such-a-big-city--and-there-was-a-strong-journalism-community-at-chicago-back-then-.json",
+            "label": {
+              "none": ["Direct Answer: It was a huge shift for Sosa in so many ways as Sosa have never lived in such a big city, and there was a strong journalism community at Chicago back then."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-comparison-question--interviewer-asked-if-sosa-s-peers-have-the-same-opinions-on-newspaper-as-she-did-.json",
+            "label": {
+              "none": ["Comparison question: interviewer asked if Sosa's peers have the same opinions on newspaper as she did."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--there-was-only-two-hispanic-reporter-at-chicago-at-that-time--there-was-an-hispanic-reporter-at-cst-before-sosa-who-later-went-to-new-york-to-work-for-a-journalistic-polling-organization--.json",
+            "label": {
+              "none": ["Direct answer: There was only two Hispanic reporter at Chicago at that time. There was an Hispanic reporter at CST before Sosa who later went to New York to work for a journalistic polling organization. "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--there-were-only-hispanic-reporters-at-first-who-later-became-editors--but-it-was-much-years-later-.json",
+            "label": {
+              "none": ["Direct Answer: There were only Hispanic reporters at first who later became editors, but it was much years later."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--asking-sosa-about-the-two-puran-reporters-working-at--pacino--.json",
+            "label": {
+              "none": ["Follow-up question: Asking Sosa about the two Puran reporters working at \"Pacino\"."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-clarifying-question--asking-sosa-the-name-of-the-hispanic-reporter-before-her-at-cst-.json",
+            "label": {
+              "none": ["Clarifying question: Asking Sosa the name of the Hispanic reporter before her at CST."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--most-of-the-hispanic-reporters-were-general-news-reporter-.json",
+            "label": {
+              "none": ["Direct Answer: Most of the Hispanic reporters were general news reporter."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question-to-clarify-which-local-paper-was-sosa-talking-about.json",
+            "label": {
+              "none": ["Follow up question to clarify which local paper was Sosa talking about"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--asking-sosa-how-much-time-she-spent-at-lakeland--blur-audio-.json",
+            "label": {
+              "none": ["Follow up question: Asking Sosa how much time she spent at Lakeland (Blur audio)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--they-will-not-cover-hispanic-reports-unless-they-community-newspaper-have-serious-reports-about-hispanic-political-presence--.json",
+            "label": {
+              "none": ["Direct answer: They will not cover Hispanic reports unless they community newspaper have serious reports about Hispanic political presence. "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--interviewer-asked-if-sosa-remembered-any-professors-name-from-standfrod-.json",
+            "label": {
+              "none": ["Follow-up Question: Interviewer asked if Sosa remembered any professors name from Standfrod."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-clarifying-question--interviewer-asked-about-if-she-remembered-any-details-about-the-need-for-any-propositions-.json",
+            "label": {
+              "none": ["Follow-up clarifying question: Interviewer asked about if she remembered any details about the need for any propositions."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-interviwee.json",
+            "label": {
+              "none": ["interviwee"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-consistent-answer--sosa-mentioned-people-the-interviewer-could-reach-out-to-to-confirm-she-have-involved-in-the-campaigns--.json",
+            "label": {
+              "none": ["Consistent Answer: Sosa mentioned people the interviewer could reach out to to confirm she have involved in the campaigns. "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--asking-sosa-who-were-her-role-models-in-the-start-of-her-career-.json",
+            "label": {
+              "none": ["Follow up question: Asking Sosa who were her role models in the start of her career."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--sosa-have-spent-around-16-months-at-lakeland-.json",
+            "label": {
+              "none": ["Direct Answer: Sosa have spent around 16 months at Lakeland."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-former-attorney-in-ut-austin-make-it-possible-for-hispanic-students-to-go-to-colleges.json",
+            "label": {
+              "none": ["Former attorney in UT Austin make it possible for hispanic students to go to colleges"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--there-were-not-really-an-opportunity-to-cover-the-latinos-in-a-political-sense-becasue-the-mayor-were-not-hispanic--and-they-will-only-report-hispanic-news-if-there-were-riots-.json",
+            "label": {
+              "none": ["Direct answer: There were not really an opportunity to cover the latinos in a political sense becasue the mayor were not Hispanic. And they will only report Hispanic news if there were riots."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-change-of-subject-question--asking-sosa-how-was-it-like-to-to-edit-the-newspaper-and-her-feelings-toward-it-.json",
+            "label": {
+              "none": ["Change of subject question: asking Sosa how was it like to to edit the newspaper and her feelings toward it."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--sosa-do-not-think-there-were-a-lot-of-politics-going-on-in-lakeland-other-than-social-events-.json",
+            "label": {
+              "none": ["Direct Answer: Sosa do not think there were a lot of politics going on in Lakeland other than social events."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-clarifying-answer--it-was-more-like-unrest-instead-of-riots--there-were-no-injuries-or-takeovers--there-were-no-big-events-like-this-will-be-picked-up-by-larger-newspapers-.json",
+            "label": {
+              "none": ["Clarifying answer: It was more like unrest instead of riots, there were no injuries or takeovers, there were no big events like this will be picked up by larger newspapers."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-asking-a-follow-up-question-on-if-sosa-remembered-her-father-commenting-on-the-newspaper-or-events-.json",
+            "label": {
+              "none": ["Asking a follow-up question on if Sosa remembered her father commenting on the newspaper or events."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--asking-sosa-if-she-thinks-there-was-a-lot-of-social-character-coverage-in-the-paper--blur-audio-.json",
+            "label": {
+              "none": ["Follow up question: Asking Sosa if she thinks there was a lot of social character coverage in the paper (Blur Audio)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--sosa-does-not-think-it-was-impacted-since-it-is-an-upper-middle-class-community--and-there-were-not-a-lot-of-political-coverage-on-the-paper-.json",
+            "label": {
+              "none": ["Direct Answer: Sosa does not think it was impacted since it is an upper middle class community, and there were not a lot of political coverage on the paper."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--asking-sosa-if-there-were-any-other-latino-reporter-or-editors-in-the-newspaper-.json",
+            "label": {
+              "none": ["Follow-up question: Asking Sosa if there were any other Latino reporter or editors in the newspaper."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--there-were-reports-related-to-the-general-economic-or-social-issues-regarding-to-the-farmers--but-there-were-no-direct-reports-about-them-.json",
+            "label": {
+              "none": ["Direct Answer: There were reports related to the general economic or social issues regarding to the farmers, but there were no direct reports about them."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--sosa-do-not-think-she-had-problems-with-that--since-she-have-lived-and-studied-in-anglo-communities-all-the-time-.json",
+            "label": {
+              "none": ["Direct Answer: Sosa do not think she had problems with that, since she have lived and studied in Anglo communities all the time."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-change-of-subject-question--asking-sosa-what-follows-her-time-after-she-left-lakeland-.json",
+            "label": {
+              "none": ["Change of Subject Question: Asking Sosa what follows her time after she left Lakeland."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--sosa-went-home-to-corpus-christi-and-applied-for-a-job-at-the-local-newspaper-.json",
+            "label": {
+              "none": ["Direct Answer: Sosa went home to Corpus Christi and applied for a job at the local newspaper."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--the-response-from-the-spanish-community-was-straight--they-did-not-want--pacino--to-exist--the-cst-don-t-have-to-step-in-their-realm-.json",
+            "label": {
+              "none": ["Direct answer: The response from the Spanish community was straight- they did not want \"Pacino\" to exist. The CST don't have to step in their realm."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-clarifying-question--asking-sosa-the-proportion-of-latino-students-in-her-program-.json",
+            "label": {
+              "none": ["Clarifying Question: Asking Sosa the proportion of Latino students in her program."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--sosa-do-not-think-she-met-any-resistence-from-the-newspaper-.json",
+            "label": {
+              "none": ["Direct Answer: Sosa do not think she met any resistence from the newspaper."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--asking-sosa-if-she-could-recall-a-particular-candidate-or-campaign-.json",
+            "label": {
+              "none": ["Follow up question: Asking Sosa if she could recall a particular candidate or campaign."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-further-answer--cst-had-a-spanish-language-tabloid-named--pacino--and-named-sosa-as-the-editor--but-the-local-spanish-newspaper-hated-that--because-they-hated-the-competitions-.json",
+            "label": {
+              "none": ["Further answer: CST had a spanish language tabloid named \"Pacino\" and named Sosa as the editor. But the local Spanish newspaper hated that, because they hated the competitions."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-clarifying-question--asking-sosa-which-part-is-lakeland-locate-in-florida-.json",
+            "label": {
+              "none": ["Clarifying question: Asking Sosa which part is Lakeland locate in Florida."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--lakeland-was-an-upper-city--and-sosa-do-not-think-there-were-any-hispanic-reporter-that-she-know--the-only-hispanics-contacts-she-knew-was-the-farm-workers-.json",
+            "label": {
+              "none": ["Direct Answer: Lakeland was an upper city, and Sosa do not think there were any Hispanic reporter that she know. The only Hispanics contacts she knew was the farm workers."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-questin--asking-if-lakeland-was-impacted-much-by-orlando-or-tampa---blur-audio-.json",
+            "label": {
+              "none": ["Follow up questin: Asking if Lakeland was impacted much by Orlando or Tampa. (Blur Audio)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--sosa-was-covering-women-s-section-at-first--mainly-covering-wedding-announcement-and-some-social-issues-related-to-women-interests-.json",
+            "label": {
+              "none": ["Direct Answer: Sosa was covering women's section at first, mainly covering wedding announcement and some social issues related to women interests."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--asking-sosa-about-the-experience-working-at-the-newspaper-and-what-were-she-covering-.json",
+            "label": {
+              "none": ["Follow up question: Asking Sosa about the experience working at the newspaper and what were she covering."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--asking-if-sosa-remembered-anything-happen-while-she-was-there--and-what-was-the-writings-.json",
+            "label": {
+              "none": ["Follow-up question: Asking if Sosa remembered anything happen while she was there, and what was the writings."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-interviewer.json",
+            "label": {
+              "none": ["interviewer"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--asking-sosa-if-she-remembered-these-political-candidates--partisan-positions-or-if-they-were-affliated-with-the-parties-.json",
+            "label": {
+              "none": ["Follow up question: Asking Sosa if she remembered these political candidates' partisan positions or if they were affliated with the parties?"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--the-spanish-community-resented-the-puran-tinge-in--pacino---sosa-tried-to-think-if-she-should-edit-it-to-mexican-spanish--but-the-lauguages-are-very-different-in-different-places-.json",
+            "label": {
+              "none": ["Direct answer: The spanish community resented the puran tinge in \"Pacino\", Sosa tried to think if she should edit it to Mexican Spanish. But the lauguages are very different in different places."]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-answering-question-from-childhood-experience.json",
+            "label": {
+              "none": ["Answering question from childhood experience"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://siyucatherineli.github.io/normasosa__OralHistory/normasosa_interview/canvas-1/paintings",

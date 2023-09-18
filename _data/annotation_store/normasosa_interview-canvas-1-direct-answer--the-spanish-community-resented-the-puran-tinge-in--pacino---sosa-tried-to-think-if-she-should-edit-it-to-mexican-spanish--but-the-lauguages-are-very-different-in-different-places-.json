@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--the-spanish-community-resented-the-puran-tinge-in--pacino---sosa-tried-to-think-if-she-should-edit-it-to-mexican-spanish--but-the-lauguages-are-very-different-in-different-places-.json",
+  "type": "AnnotationPage",
+  "label": "Direct answer: The spanish community resented the puran tinge in \"Pacino\", Sosa tried to think if she should edit it to Mexican Spanish. But the lauguages are very different in different places.",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "normasosa_interview-canvas-1-direct-answer--the-spanish-community-resented-the-puran-tinge-in--pacino---sosa-tried-to-think-if-she-should-edit-it-to-mexican-spanish--but-the-lauguages-are-very-different-in-different-places--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Direct answer: The spanish community resented the puran tinge in \"Pacino\", Sosa tried to think if she should edit it to Mexican Spanish. But the lauguages are very different in different places.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://siyucatherineli.github.io/normasosa__OralHistory/normasosa_interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://siyucatherineli.github.io/normasosa__OralHistory/normasosa_interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3427.0,3460.0"
+        }
+      }
+    }
+  ]
+}

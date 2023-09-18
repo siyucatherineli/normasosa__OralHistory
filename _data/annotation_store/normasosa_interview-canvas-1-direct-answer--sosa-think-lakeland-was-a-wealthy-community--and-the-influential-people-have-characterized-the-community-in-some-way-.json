@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--sosa-think-lakeland-was-a-wealthy-community--and-the-influential-people-have-characterized-the-community-in-some-way-.json",
+  "type": "AnnotationPage",
+  "label": "Direct Answer: Sosa think Lakeland was a wealthy community, and the influential people have characterized the community in some way.",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "normasosa_interview-canvas-1-direct-answer--sosa-think-lakeland-was-a-wealthy-community--and-the-influential-people-have-characterized-the-community-in-some-way--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Direct Answer: Sosa think Lakeland was a wealthy community, and the influential people have characterized the community in some way.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://siyucatherineli.github.io/normasosa__OralHistory/normasosa_interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://siyucatherineli.github.io/normasosa__OralHistory/normasosa_interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2710.0,2745.0"
+        }
+      }
+    }
+  ]
+}

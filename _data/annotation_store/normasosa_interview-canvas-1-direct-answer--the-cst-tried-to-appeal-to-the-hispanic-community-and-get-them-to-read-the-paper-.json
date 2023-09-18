@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--the-cst-tried-to-appeal-to-the-hispanic-community-and-get-them-to-read-the-paper-.json",
+  "type": "AnnotationPage",
+  "label": "Direct answer: The CST tried to appeal to the Hispanic community and get them to read the paper.",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "normasosa_interview-canvas-1-direct-answer--the-cst-tried-to-appeal-to-the-hispanic-community-and-get-them-to-read-the-paper--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Direct answer: The CST tried to appeal to the Hispanic community and get them to read the paper.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://siyucatherineli.github.io/normasosa__OralHistory/normasosa_interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://siyucatherineli.github.io/normasosa__OralHistory/normasosa_interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3305.0,3330.0"
+        }
+      }
+    }
+  ]
+}

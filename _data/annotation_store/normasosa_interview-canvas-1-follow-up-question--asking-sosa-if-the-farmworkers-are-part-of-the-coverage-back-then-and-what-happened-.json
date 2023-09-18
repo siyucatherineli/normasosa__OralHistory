@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--asking-sosa-if-the-farmworkers-are-part-of-the-coverage-back-then-and-what-happened-.json",
+  "type": "AnnotationPage",
+  "label": "Follow up Question: Asking Sosa if the farmworkers are part of the coverage back then and what happened.",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "normasosa_interview-canvas-1-follow-up-question--asking-sosa-if-the-farmworkers-are-part-of-the-coverage-back-then-and-what-happened--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Follow up Question: Asking Sosa if the farmworkers are part of the coverage back then and what happened.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://siyucatherineli.github.io/normasosa__OralHistory/normasosa_interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://siyucatherineli.github.io/normasosa__OralHistory/normasosa_interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2558.0,2577.0"
+        }
+      }
+    }
+  ]
+}

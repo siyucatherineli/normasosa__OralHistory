@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--there-were-not-really-an-opportunity-to-cover-the-latinos-in-a-political-sense-becasue-the-mayor-were-not-hispanic--and-they-will-only-report-hispanic-news-if-there-were-riots-.json",
+  "type": "AnnotationPage",
+  "label": "Direct answer: There were not really an opportunity to cover the latinos in a political sense becasue the mayor were not Hispanic. And they will only report Hispanic news if there were riots.",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "normasosa_interview-canvas-1-direct-answer--there-were-not-really-an-opportunity-to-cover-the-latinos-in-a-political-sense-becasue-the-mayor-were-not-hispanic--and-they-will-only-report-hispanic-news-if-there-were-riots--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Direct answer: There were not really an opportunity to cover the latinos in a political sense becasue the mayor were not Hispanic. And they will only report Hispanic news if there were riots.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://siyucatherineli.github.io/normasosa__OralHistory/normasosa_interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://siyucatherineli.github.io/normasosa__OralHistory/normasosa_interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3047.0,3097.0"
+        }
+      }
+    }
+  ]
+}

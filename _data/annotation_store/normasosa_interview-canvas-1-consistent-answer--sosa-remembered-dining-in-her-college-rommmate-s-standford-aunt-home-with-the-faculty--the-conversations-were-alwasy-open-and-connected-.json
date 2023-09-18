@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-consistent-answer--sosa-remembered-dining-in-her-college-rommmate-s-standford-aunt-home-with-the-faculty--the-conversations-were-alwasy-open-and-connected-.json",
+  "type": "AnnotationPage",
+  "label": "Consistent Answer: Sosa remembered dining in her college rommmate's Standford aunt home with the faculty, the conversations were alwasy open and connected.",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "normasosa_interview-canvas-1-consistent-answer--sosa-remembered-dining-in-her-college-rommmate-s-standford-aunt-home-with-the-faculty--the-conversations-were-alwasy-open-and-connected--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Consistent Answer: Sosa remembered dining in her college rommmate's Standford aunt home with the faculty, the conversations were alwasy open and connected.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://siyucatherineli.github.io/normasosa__OralHistory/normasosa_interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://siyucatherineli.github.io/normasosa__OralHistory/normasosa_interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1419.0,1443.0"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--sosa-do-not-think-she-have-the-answer--cst-was-simply-receiving-these-complaints-and-the-editors-never-told-her-why--there-might-be-many-reasons-behind-this-.json",
+  "type": "AnnotationPage",
+  "label": "Direct answer: Sosa do not think she have the answer. CST was simply receiving these complaints and the editors never told her why. There might be many reasons behind this.",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "normasosa_interview-canvas-1-direct-answer--sosa-do-not-think-she-have-the-answer--cst-was-simply-receiving-these-complaints-and-the-editors-never-told-her-why--there-might-be-many-reasons-behind-this--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Direct answer: Sosa do not think she have the answer. CST was simply receiving these complaints and the editors never told her why. There might be many reasons behind this.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://siyucatherineli.github.io/normasosa__OralHistory/normasosa_interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://siyucatherineli.github.io/normasosa__OralHistory/normasosa_interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3576.0,3621.0"
+        }
+      }
+    }
+  ]
+}
