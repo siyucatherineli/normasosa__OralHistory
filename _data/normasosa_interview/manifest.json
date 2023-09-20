@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-asking-follow-up-question-about-sosa-s-ideas-about--opinions--have-significance--.json",
-            "label": {
-              "none": ["Asking follow-up question about Sosa's ideas about \"opinions' have significance\"."]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-awswering-question-from-university-experience-.json",
             "label": {
               "none": ["Awswering question from university experience."]
