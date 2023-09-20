@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-consistent-answer--sosa-mentioned-people-the-interviewer-could-reach-out-to-to-confirm-she-have-involved-in-the-campaigns--.json",
-            "label": {
-              "none": ["Consistent Answer: Sosa mentioned people the interviewer could reach out to to confirm she have involved in the campaigns. "]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--asking-sosa-who-were-her-role-models-in-the-start-of-her-career-.json",
             "label": {
               "none": ["Follow up question: Asking Sosa who were her role models in the start of her career."]
