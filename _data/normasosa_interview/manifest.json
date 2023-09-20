@@ -29,7 +29,7 @@
             "type": "AnnotationPage",
             "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-interviewee.json",
             "label": {
-              "none": ["interviewee"]
+              "none": ["Interviewee"]
             }
           }
           ,
@@ -645,7 +645,7 @@
             "type": "AnnotationPage",
             "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-interviewer.json",
             "label": {
-              "none": ["interviewer"]
+              "none": ["Interviewer"]
             }
           }
           ,
