@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--asking-sosa-who-were-her-role-models-in-the-start-of-her-career-.json",
-            "label": {
-              "none": ["Follow up question: Asking Sosa who were her role models in the start of her career."]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--sosa-have-spent-around-16-months-at-lakeland-.json",
             "label": {
               "none": ["Direct Answer: Sosa have spent around 16 months at Lakeland."]
