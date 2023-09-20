@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-change-of-subject-question--asking-sosa-s-duty-at-chicago-sun-times-.json",
-            "label": {
-              "none": ["Change of subject question: Asking Sosa's duty at Chicago Sun Times."]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--did-sosa-collaborate-or-get-together-with-other-latino-students-in-campus-.json",
             "label": {
               "none": ["Follow up question: Did Sosa collaborate or get together with other Latino students in campus?"]
