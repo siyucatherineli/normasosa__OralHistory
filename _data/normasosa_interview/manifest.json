@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--asking-sosa-if-the-farmworkers-are-part-of-the-coverage-back-then-and-what-happened-.json",
-            "label": {
-              "none": ["Follow up Question: Asking Sosa if the farmworkers are part of the coverage back then and what happened."]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--sosa-s-answer-was-no--there-were-many-veteran-reporters-and-she-is-far-from-being-the-first-hispanic-reporter-at-the-local-newspaper-.json",
             "label": {
               "none": ["Direct Answer: Sosa's answer was no. There were many veteran reporters and she is far from being the first Hispanic reporter at the local newspaper."]
