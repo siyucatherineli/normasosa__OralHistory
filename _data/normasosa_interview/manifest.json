@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--asking-why-did-sosa-decided-to-go-to-standford--sosa-smiled-.json",
-            "label": {
-              "none": ["Follow up question: Asking why did Sosa decided to go to Standford. Sosa smiled."]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--it-was-a-huge-shift-for-sosa-in-so-many-ways-as-sosa-have-never-lived-in-such-a-big-city--and-there-was-a-strong-journalism-community-at-chicago-back-then-.json",
             "label": {
               "none": ["Direct Answer: It was a huge shift for Sosa in so many ways as Sosa have never lived in such a big city, and there was a strong journalism community at Chicago back then."]
