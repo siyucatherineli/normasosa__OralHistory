@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--sosa-really-enjoyed-editing-newspaper--her-reporter-were-covering-stories-that-english-paper-wasn-t-covering--but-some-people-in-cst-resisted-spanish-stories-in-their-paper-.json",
-            "label": {
-              "none": ["Direct answer: Sosa really enjoyed editing newspaper. Her reporter were covering stories that English paper wasn't covering. But some people in CST resisted Spanish stories in their paper."]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--referring-back-to-the--riot--that-sosa-mentioned-earlier-.json",
             "label": {
               "none": ["Follow up question: Referring back to the \"riot\" that Sosa mentioned earlier."]
