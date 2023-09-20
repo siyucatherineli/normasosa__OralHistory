@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-clarifying-question--asking-sosa-the-name-of-the-hispanic-reporter-before-her-at-cst-.json",
-            "label": {
-              "none": ["Clarifying question: Asking Sosa the name of the Hispanic reporter before her at CST."]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--most-of-the-hispanic-reporters-were-general-news-reporter-.json",
             "label": {
               "none": ["Direct Answer: Most of the Hispanic reporters were general news reporter."]
