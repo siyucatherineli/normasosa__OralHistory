@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--there-were-only-hispanic-reporters-at-first-who-later-became-editors--but-it-was-much-years-later-.json",
-            "label": {
-              "none": ["Direct Answer: There were only Hispanic reporters at first who later became editors, but it was much years later."]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--asking-sosa-about-the-two-puran-reporters-working-at--pacino--.json",
             "label": {
               "none": ["Follow-up question: Asking Sosa about the two Puran reporters working at \"Pacino\"."]
