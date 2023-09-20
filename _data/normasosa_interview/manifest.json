@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--sosa-went-home-to-corpus-christi-and-applied-for-a-job-at-the-local-newspaper-.json",
-            "label": {
-              "none": ["Direct Answer: Sosa went home to Corpus Christi and applied for a job at the local newspaper."]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--the-response-from-the-spanish-community-was-straight--they-did-not-want--pacino--to-exist--the-cst-don-t-have-to-step-in-their-realm-.json",
             "label": {
               "none": ["Direct answer: The response from the Spanish community was straight- they did not want \"Pacino\" to exist. The CST don't have to step in their realm."]
