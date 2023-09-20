@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--if-moving-to-chicago-sun-times-was-a-major-shift-for-sosa-.json",
-            "label": {
-              "none": ["Follow up question: If moving to Chicago Sun Times was a major shift for Sosa."]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--sosa-s-editor-asked-her-if-she-will-be-comfortable-working-in-a-community-that-was-majorly-white-people-.json",
             "label": {
               "none": ["Direct Answer: Sosa's editor asked her if she will be comfortable working in a community that was majorly white people."]
