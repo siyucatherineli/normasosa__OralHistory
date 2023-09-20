@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question-to-clarify-which-local-paper-was-sosa-talking-about.json",
-            "label": {
-              "none": ["Follow up question to clarify which local paper was Sosa talking about"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--asking-sosa-how-much-time-she-spent-at-lakeland--blur-audio-.json",
             "label": {
               "none": ["Follow up question: Asking Sosa how much time she spent at Lakeland (Blur audio)"]
