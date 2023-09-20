@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--sosa-do-not-think-she-met-any-resistence-from-the-newspaper-.json",
-            "label": {
-              "none": ["Direct Answer: Sosa do not think she met any resistence from the newspaper."]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--asking-sosa-if-she-could-recall-a-particular-candidate-or-campaign-.json",
             "label": {
               "none": ["Follow up question: Asking Sosa if she could recall a particular candidate or campaign."]
