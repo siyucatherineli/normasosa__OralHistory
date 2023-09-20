@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-interviewer.json",
-            "label": {
-              "none": ["Interviewer"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--asking-sosa-if-she-remembered-these-political-candidates--partisan-positions-or-if-they-were-affliated-with-the-parties-.json",
             "label": {
               "none": ["Follow up question: Asking Sosa if she remembered these political candidates' partisan positions or if they were affliated with the parties?"]
