@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--they-will-not-cover-hispanic-reports-unless-they-community-newspaper-have-serious-reports-about-hispanic-political-presence--.json",
-            "label": {
-              "none": ["Direct answer: They will not cover Hispanic reports unless they community newspaper have serious reports about Hispanic political presence. "]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--interviewer-asked-if-sosa-remembered-any-professors-name-from-standfrod-.json",
             "label": {
               "none": ["Follow-up Question: Interviewer asked if Sosa remembered any professors name from Standfrod."]
