@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-clarifying-question--asking-sosa-the-proportion-of-latino-students-in-her-program-.json",
-            "label": {
-              "none": ["Clarifying Question: Asking Sosa the proportion of Latino students in her program."]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-direct-answer--sosa-do-not-think-she-met-any-resistence-from-the-newspaper-.json",
             "label": {
               "none": ["Direct Answer: Sosa do not think she met any resistence from the newspaper."]
