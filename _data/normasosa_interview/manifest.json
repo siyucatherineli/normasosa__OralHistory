@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--asking-sosa-if-she-could-recall-a-particular-candidate-or-campaign-.json",
-            "label": {
-              "none": ["Follow up question: Asking Sosa if she could recall a particular candidate or campaign."]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-further-answer--cst-had-a-spanish-language-tabloid-named--pacino--and-named-sosa-as-the-editor--but-the-local-spanish-newspaper-hated-that--because-they-hated-the-competitions-.json",
             "label": {
               "none": ["Further answer: CST had a spanish language tabloid named \"Pacino\" and named Sosa as the editor. But the local Spanish newspaper hated that, because they hated the competitions."]
