@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-follow-up-question--referring-back-to-the--riot--that-sosa-mentioned-earlier-.json",
-            "label": {
-              "none": ["Follow up question: Referring back to the \"riot\" that Sosa mentioned earlier."]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://siyucatherineli.github.io/normasosa__OralHistory/annotations/normasosa_interview-canvas-1-context-question--what-types-of-communication-was-in-sosa-s-living-area--.json",
             "label": {
               "none": ["Context Question: What types of communication was in Sosa's living area? "]
